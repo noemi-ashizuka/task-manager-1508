@@ -1,0 +1,9 @@
+MVC
+Model - View - Controller
+Repository - store instances of tasks create destroy
+
+User stories
+- list all the tasks
+- add a task
+- mark a task as done
+- remove a task
